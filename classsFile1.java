@@ -441,4 +441,3 @@ public class DropDownConcept extends JFrame implements ActionListener{
         m.printIndividual();
     }
 }
-
